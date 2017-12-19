@@ -1,3 +1,3 @@
 # laravel-docker
 
-LaradockでLaravelの環境構築をしました。 @ Laravel MeetUp Okinawa
+１０分でLaravelの環境構築をし、LTを行いました。 @ Laravel MeetUp Okinawa
