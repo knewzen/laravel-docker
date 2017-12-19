@@ -56,3 +56,17 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+
+
+ワークスペース上でやるべき？
+どっちでもいい？
+**チームに合わせた環境**
+基本手コンテナ内がいい。かも。by ぱいせん
+
+複数プロジェクトやる時↓
+**DATA_SAVE_PATH=~/.laradock/data/projects**
+相対パスとかでもできる
+
+laradock/workspace/crontab/laradock
+でcronまわってる
