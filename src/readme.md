@@ -57,8 +57,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
 
+## Laravel MeetUp Tips
 
-
+npmコマンド
 ワークスペース上でやるべき？
 どっちでもいい？
 **チームに合わせた環境**
@@ -67,6 +68,8 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 複数プロジェクトやる時↓
 **DATA_SAVE_PATH=~/.laradock/data/projects**
 相対パスとかでもできる
+ここを削除すると環境リセットできる
+コンテナだけでなく、ここも注視する
 
 laradock/workspace/crontab/laradock
 でcronまわってる
